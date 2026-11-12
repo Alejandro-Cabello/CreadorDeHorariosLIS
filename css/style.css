@@ -1,0 +1,10 @@
+/* style.css */
+body.bg-orange-light {
+    background: linear-gradient(to right,#ff6060, #f77a40);
+    -webkit-background-clip: text;
+}
+
+/* Colores personalizados para la navegación */
+.navbar-nav .nav-link.text-warning {
+    color: #f77a40 !important; /* Naranja claro para el texto activo */
+}
